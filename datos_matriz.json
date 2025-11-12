@@ -1,0 +1,15 @@
+{
+    "matriz": [
+        {
+            "Entidad": "Aguascalientes",
+            "Tramite que se Realiza": "Baja y Alta",
+            "TC": "",
+            "Laminas": ""
+        }
+    ],
+    "alertas": {
+        "Aguascalientes": [
+            "Faltan Láminas: Acta de extravío"
+        ]
+    }
+}
